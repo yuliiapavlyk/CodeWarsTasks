@@ -8,9 +8,7 @@ namespace linqTasks
     {
         public static object[] RemoveEveryOther(object[] arr)
         {
-            arr = arr.Where((value, index) => index % 2 == 0).ToArray();
-
-            return arr;
+           return  arr.Where((value, index) => index % 2 == 0).ToArray();       
 
         }
         static void Main(string[] args)
@@ -26,5 +24,6 @@ namespace linqTasks
             Console.ReadLine();
 
         }        
-    }
+    }   
 }
+

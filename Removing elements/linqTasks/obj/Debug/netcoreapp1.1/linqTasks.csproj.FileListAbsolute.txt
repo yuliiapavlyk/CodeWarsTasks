@@ -8,3 +8,13 @@ c:\users\user\source\repos\linqTasks\linqTasks\obj\Debug\netcoreapp1.1\linqTasks
 c:\users\user\source\repos\linqTasks\linqTasks\obj\Debug\netcoreapp1.1\linqTasks.AssemblyInfo.cs
 c:\users\user\source\repos\linqTasks\linqTasks\obj\Debug\netcoreapp1.1\linqTasks.dll
 c:\users\user\source\repos\linqTasks\linqTasks\obj\Debug\netcoreapp1.1\linqTasks.pdb
+C:\Users\User\source\repos\linqTasks\CodeWarsTasks\Removing elements\linqTasks\bin\Debug\netcoreapp1.1\linqTasks.deps.json
+C:\Users\User\source\repos\linqTasks\CodeWarsTasks\Removing elements\linqTasks\bin\Debug\netcoreapp1.1\linqTasks.runtimeconfig.json
+C:\Users\User\source\repos\linqTasks\CodeWarsTasks\Removing elements\linqTasks\bin\Debug\netcoreapp1.1\linqTasks.runtimeconfig.dev.json
+C:\Users\User\source\repos\linqTasks\CodeWarsTasks\Removing elements\linqTasks\bin\Debug\netcoreapp1.1\linqTasks.dll
+C:\Users\User\source\repos\linqTasks\CodeWarsTasks\Removing elements\linqTasks\bin\Debug\netcoreapp1.1\linqTasks.pdb
+C:\Users\User\source\repos\linqTasks\CodeWarsTasks\Removing elements\linqTasks\obj\Debug\netcoreapp1.1\linqTasks.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\linqTasks\CodeWarsTasks\Removing elements\linqTasks\obj\Debug\netcoreapp1.1\linqTasks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\linqTasks\CodeWarsTasks\Removing elements\linqTasks\obj\Debug\netcoreapp1.1\linqTasks.AssemblyInfo.cs
+C:\Users\User\source\repos\linqTasks\CodeWarsTasks\Removing elements\linqTasks\obj\Debug\netcoreapp1.1\linqTasks.dll
+C:\Users\User\source\repos\linqTasks\CodeWarsTasks\Removing elements\linqTasks\obj\Debug\netcoreapp1.1\linqTasks.pdb

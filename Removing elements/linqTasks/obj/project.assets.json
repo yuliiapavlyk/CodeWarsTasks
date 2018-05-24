@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\linqTasks\\Removing elements\\linqTasks\\linqTasks.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\linqTasks\\CodeWarsTasks\\Removing elements\\linqTasks\\linqTasks.csproj",
       "projectName": "linqTasks",
-      "projectPath": "C:\\Users\\User\\source\\repos\\linqTasks\\Removing elements\\linqTasks\\linqTasks.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\linqTasks\\CodeWarsTasks\\Removing elements\\linqTasks\\linqTasks.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\linqTasks\\Removing elements\\linqTasks\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\linqTasks\\CodeWarsTasks\\Removing elements\\linqTasks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
